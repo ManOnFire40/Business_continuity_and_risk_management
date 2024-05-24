@@ -2,4 +2,4 @@
 
 M1 : Exploring differant Risk assesment framework (CRAMM , CORAS , OCTAVE allegro , EBIOS)
 
-M2 : Applying OCATVE Allegro to smart home system organiztion
+M2 : Applying OCATVE Allegro to Smart home system organiztion
